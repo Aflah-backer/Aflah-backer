@@ -8,10 +8,9 @@
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<!-- ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
-<!-- [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://anasmullappally.github.io/Anas_Mullappally/) [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black' />](mailto:anasmp0029@gmail.com) [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black' />](https://www.linkedin.com/in/anasmullappally/) [<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&color=black' />](https://www.facebook.com/anas.mullappally1) [<img src='https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&color=black' />](https://discord.com/users/5103) -->
-[<img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=black' />](https://wa.me/916282368471)
+<!-- [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://anasmullappally.github.io/Anas_Mullappally/) [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black' />](mailto:anasmp0029@gmail.com) [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black' />](https://www.linkedin.com/in/anasmullappally/) [<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&color=black' />](https://www.facebook.com/anas.mullappally1) [<img src='https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&color=black' />](https://discord.com/users/5103) [<img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=black' />](https://wa.me/916282368471) -->
 
 <!--
 **Aflah-backer/Aflah-backer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
